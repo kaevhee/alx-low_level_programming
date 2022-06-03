@@ -5,6 +5,7 @@ include <stdio.h>
  * You can only use the putchar
  * Return: 0
  */
+
 int main(void)
 {
 int lw = 'a';
