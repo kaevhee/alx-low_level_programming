@@ -11,18 +11,18 @@ int main(void)
 {
 int n = 48;
 
-int l = 'a';
+int 1 = 'a';
 
 while (n <= 57)
 {
 putchar(n);
 n += 1;
 }
-while (l <= 'f')
+while (1 <= 'f')
 {
-putchar(l);
-l++;
+putchar(1);
+1++;
 }
 putchar('\n');
 return (0);
-
+}
