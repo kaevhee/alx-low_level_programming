@@ -1,5 +1,4 @@
 include <stdio.h>
-
 /**
  * main - program that prints the alphabet in lowercase, and then in uppercase,
  * You can only use the putchar
@@ -7,9 +6,12 @@ include <stdio.h>
  */
 
 int main(void)
+
 {
 int lw = 'a';
+
 int up = 'A';
+
 while (lw <= 'z')
 {
 putchar(lw);
